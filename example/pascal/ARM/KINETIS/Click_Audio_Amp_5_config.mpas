@@ -1,0 +1,5 @@
+unit Click_Audio_Amp_5_config;
+
+uses Click_Audio_Amp_5_types;
+
+end.

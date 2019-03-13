@@ -1,0 +1,4 @@
+module Click_Audio_Amp_5_config
+
+include Click_Audio_Amp_5_types
+end.
